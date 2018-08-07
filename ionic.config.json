@@ -1,0 +1,8 @@
+{
+  "name": "netScentUI",
+  "app_id": "f421e536",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
